@@ -6,6 +6,8 @@
 // @author       MrCassioMaciel
 // @match        https://www.netflix.com/watch/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/SleepyBlackFox/XUserScripts/master/NetflixWatchPartyBinds.js
+// @updateURL    https://raw.githubusercontent.com/SleepyBlackFox/XUserScripts/master/NetflixWatchPartyBinds.js
 // ==/UserScript==
 
 (function() {
