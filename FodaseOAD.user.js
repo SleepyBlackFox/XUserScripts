@@ -6,8 +6,8 @@
 // @author       MrCassioMaciel
 // @match        https://www.mastercuriosidadesbr.com/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/SleepyBlackFox/XUserScripts/master/FodaseOAD.user.js
-// @updateURL    https://raw.githubusercontent.com/SleepyBlackFox/XUserScripts/master/FodaseOAD.user.js
+// @downloadURL  https://raw.githubusercontent.com/cassiomaciell/XUserScripts/master/FodaseOAD.user.js
+// @updateURL    https://raw.githubusercontent.com/cassiomaciell/XUserScripts/master/FodaseOAD.user.js
 // ==/UserScript==
 
 (function () {
