@@ -15,4 +15,6 @@
     let fix = document.createElement('script')
     fix.src = 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'
     document.head.appendChild(fix)
+    console.log('jqfix')
+    
 })();
