@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Apelar nas keys
 // @namespace    http://tampermonkey.net/
-// @version      1.0.4
+// @version      1.1.4
 // @description  try to take over the world!
 // @author       CassioMaciel
 // @match        https://www.twitch.tv/*
@@ -16,7 +16,7 @@
         console.log(`[${i}] startApelar(true)`)
         console.log(`[${i}] apelarKey = !apelarKey`)
     }
-    window.startApelar = (ativo = false) => {
+    window.startApelar = (ativo = true) => {
         window.apelarKey = ativo
 
         const copyToClipboard = str => {
